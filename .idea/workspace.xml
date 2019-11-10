@@ -6,6 +6,10 @@
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Home/Items.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Home/Items.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Navbar/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Navbar/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -95,7 +100,7 @@
       <updated>1573325426036</updated>
       <workItem from="1573325448631" duration="350000" />
       <workItem from="1573325806480" duration="75000" />
-      <workItem from="1573325883172" duration="11595000" />
+      <workItem from="1573325883172" duration="23015000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,14 @@
+.buttonSelected{
+    height: 50px;
+    width: 50px;
+    margin-top: -26px;
+    margin-left: 356px;
+    background-color: white;
+}
+.buttonUnSelected{
+    height: 50px;
+    width: 50px;
+    margin-top: -26px;
+    margin-left: 356px;
+    background-color: skyblue;
+}
